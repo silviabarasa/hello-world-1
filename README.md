@@ -1,8 +1,8 @@
 # Hello-World
 
 ## Authors
-- [silviabarasa](https://github.com/silviabarasa)
-- Add your clickable username here. It should point to your GitHub account. 
+- [silviabarasa]
+- (https://github.com/silviabarasa)
 
 ## Project setup instructions
 To start using this project use the following commands:
